@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi there everyone, Myself Siddharth Mishra 👋
 
-<!--
-**RustyGrackle/RustyGrackle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Website Hacking.
+- 🌱 I’m currently learning Python.
+- 👯 I’m looking to collaborate on Cyber Security with AI.
+- 🤔 I’m looking for help with Veil Framework.
+- 💬 Ask me about AI.
+- 📫 How to reach me: twitter: @MANAS_aka_SID 
+                      instagram: @siddharthmishra.i
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I like to play Video Games.
