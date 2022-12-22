@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Cyber Security with AI.
 - 🤔 I’m looking for help with Veil Framework.
 - 💬 Ask me about AI.
-- 📫 How to reach me: twitter: @MANAS_aka_SID 
+- 📫 How to reach me: 
+                      twitter: @MANAS_aka_SID 
                       instagram: @siddharthmishra.i
                       LinkedIn: www.linkedin.com/in/iamsiddharthmishra
 - 😄 Pronouns: He/His
