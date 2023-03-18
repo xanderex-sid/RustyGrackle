@@ -1,9 +1,9 @@
 ### Hi there everyone, Myself Siddharth Mishra 👋
 
-- 🔭 I’m currently working on Website Hacking.
-- 🌱 I’m currently learning Python.
-- 👯 I’m looking to collaborate on Cyber Security with AI.
-- 🤔 I’m looking for help with Veil Framework.
+- 🔭 I’m currently working on AI.
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Neural Networks, etc.
+- 👯 I’m looking to collaborate on different fields using AI.
+- 🤔 I’m looking for help with TensorFlow and Pytorch.
 - 💬 Ask me about AI.
 - 📫 How to reach me: 
                       twitter: @MANAS_aka_SID 
