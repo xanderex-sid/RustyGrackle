@@ -11,10 +11,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RustyGrackle&theme=dark&hide_border=true&custom_title=STREAK)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RustyGrackle&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact&custom_title=LANGS)
 
-![](https://github-readme-stats.vercel.app/api?username=RustyGrackle&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RustyGrackle&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RustyGrackle&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RustyGrackle&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
