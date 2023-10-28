@@ -1,7 +1,7 @@
 ### Hi there everyone, Myself Siddharth Mishra 👋
 
 
-🔭 I’m currently working on AI.<br>🌱 I’m currently learning Machine Learning, Deep Learning, Neural Networks, etc.<br>👯 I’m looking to collaborate on different fields using AI.<br>🤔 I’m looking for help with TensorFlow and Pytorch.<br>💬 Ask me about AI.<br>📫 How to reach me: LinkedIn: www.linkedin.com/in/iamsiddharthmishra<br>😄 Pronouns: He/His<br>⚡ Fun fact: I like to play Video Games.
+🔭 I’m currently working on AI.<br>🌱 I’m currently learning Machine Learning, Deep Learning, Neural Networks, etc.<br>👯 I’m looking to collaborate on different fields using AI.<br>🤔 I’m looking for help with TensorFlow and Pytorch.<br>💬 Ask me about AI.<br>😄 Pronouns: He/His<br>⚡ Fun fact: I like to play Video Games.
 
 
 # 💻 Tech Stack:
