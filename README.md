@@ -2,6 +2,7 @@
 
 
 🔭 I’m currently working on AI.<br>🌱 I’m currently learning Machine Learning, Deep Learning, Neural Networks, etc.<br>⚡ Fun fact: I like to play Video Games.
+<br> Checkout my personal website to know more about me: <a href="https://xanderex.pythonanywhere.com/">Here</a>
 
 
 # 💻 Tech Stack:
